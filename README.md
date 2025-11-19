@@ -34,7 +34,7 @@ End-to-end analytics project using Excel, SQL, Power BI & Tableau.
 
 ### 📌 **Excel Projects**  
 Dashboards, data cleaning workflows, pivot tables.  
-🔗 Repo: *Add your link here*
+🔗 Repo: *[Add your link here](https://github.com/aishwaryakamble-730/Excel-Dashboard)*
 
 ### 📌 **SQL Assignments**  
 24-query assignment + modules + practice sets.  
